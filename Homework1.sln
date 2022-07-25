@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taxi", "Taxi\Taxi.csproj", "{E197E368-52C8-41A2-A0C6-8048B69BAD9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String", "String\String.csproj", "{CC36A4CE-208D-472C-9FE0-D980E95BC36D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String", "String\String.csproj", "{CC36A4CE-208D-472C-9FE0-D980E95BC36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone", "Phone\Phone.csproj", "{F6FE9487-9E01-4DE3-ADE8-E565FA515A84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CC36A4CE-208D-472C-9FE0-D980E95BC36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC36A4CE-208D-472C-9FE0-D980E95BC36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC36A4CE-208D-472C-9FE0-D980E95BC36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FE9487-9E01-4DE3-ADE8-E565FA515A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FE9487-9E01-4DE3-ADE8-E565FA515A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FE9487-9E01-4DE3-ADE8-E565FA515A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FE9487-9E01-4DE3-ADE8-E565FA515A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
